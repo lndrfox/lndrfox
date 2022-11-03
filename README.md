@@ -6,12 +6,6 @@
 My vilain origin story is that I want to tinked with low level stuff but I keep working on webapps and OOAD. 
 
 
-
-
-
-## Contact :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/robin-arnoux-a8565a1a0/) 
-
 ## Stats : 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lndrfox&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
